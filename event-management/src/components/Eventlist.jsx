@@ -1,7 +1,7 @@
 import React from "react";
 
-const Eventlist = () => {
+function Eventlist() {
   return <div>Eventlist</div>;
-};
+}
 
 export default Eventlist;
